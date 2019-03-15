@@ -99,45 +99,46 @@ button{
 
 /* / Kevin */
 /* Daniel */
+#beneficios {
+  background-color: #666;
+  padding: 50px 0;
+}
 
+#beneficios h2{
+  font-weight: 300;
+  font-size: 38px;
+  margin-left: 5%;
+}
 
+#beneficios h3{
+  font-size: 32px;
+  text-align: center;
+}
 
+#cruz {
+  width: 36%;
+  }
 
+#camara, #engrane {
+  width: 40%;
+  }
 
+.info p{
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
 
+.info {
+  display: inline-block;
+  width: 30%;
+  margin: 0 1.5%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.info img {
+    display: block;
+    margin: 0 auto;
+}
 
 
 
