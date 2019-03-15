@@ -202,7 +202,8 @@ button{
 /* Arlet */
 #testimonio .skew {
   transform: skew(0deg, 3deg);
-  top: 0;
+  top: -32px;
+  height: 80px;
 }
 #testimonio {
   background: url(../images/chico_fondo.jpg) no-repeat left top;
@@ -221,8 +222,6 @@ text-align: center;
 #imagenes img {
   width: 24%;
 }
-
-
 
 
 
