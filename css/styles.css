@@ -18,7 +18,7 @@ main{
 }
 #um{
  width: 75%;
- margin:.5em 0 1.5em;   
+ margin:.5em 0 1.5em;
 }
 #academia{
     width: 10%;
@@ -299,40 +299,40 @@ button{
 
 /* / Arlet */
 /* Erika */
+#objetivo{
+  padding: 60px 5%;
+}
+#objetivo h2{
+text-align: center;
+width: 13em;
+margin: 0 auto;
+}
+#naranja{
+  background:#e4441b;
+  padding: 1px 9px;
+  font-weight: 900;
+  font-size: 42px;
+}
+#sincolor{
+  font-weight: 900;
+  font-size: 42px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#minusculas{
+  font-weight: 300;
+  font-size: 35px;
+  display: block;
+  text-align: right;
+}
+#subtitulo{
+  font-weight: 500;
+  font-size: 23px;
+  text-align: center;
+}
+#textoobjetivo{
+  font-weight: 300;
+  font-size: 16px;
+}
 
 
 
