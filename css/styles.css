@@ -399,3 +399,33 @@ button{
 
 /* / Erika */
 /* Pitti */
+footer{
+    background: #383838;
+    padding: 25px 5%;
+    text-align: center;
+}
+
+footer h3{
+    text-align: center;
+}
+
+footer a{
+       margin-top: 35px;
+    display: inline-block;
+}
+footer img{
+    width:90px;
+    margin:0 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
