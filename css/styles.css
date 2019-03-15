@@ -18,7 +18,7 @@ main{
 }
 #um{
  width: 75%;
- margin:.5em 0 1.5em;   
+ margin:.5em 0 1.5em;
 }
 #academia{
     width: 10%;
@@ -99,45 +99,46 @@ button{
 
 /* / Kevin */
 /* Daniel */
+#beneficios {
+  background-color: #666;
+  padding: 50px 0;
+}
 
+#beneficios h2{
+  font-weight: 300;
+  font-size: 38px;
+  margin-left: 5%;
+}
 
+#beneficios h3{
+  font-size: 32px;
+  text-align: center;
+}
 
+#cruz {
+  width: 36%;
+  }
 
+#camara, #engrane {
+  width: 40%;
+  }
 
+.info p{
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
 
+.info {
+  display: inline-block;
+  width: 30%;
+  margin: 0 1.5%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.info img {
+    display: block;
+    margin: 0 auto;
+}
 
 
 
@@ -199,29 +200,28 @@ button{
 
 /* / Daniel */
 /* Arlet */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#testimonio .skew {
+  transform: skew(0deg, 3deg);
+  top: -32px;
+  height: 80px;
+}
+#testimonio {
+  background: url(../images/chico_fondo.jpg) no-repeat left top;
+  background-size: cover;
+  padding: 200px 0 200px 40%;
+  position: relative;
+}
+blockquote{
+font-size: 22px;
+text-align: center;
+}
+#imagenes {
+  width: 100%;
+  text-align: center;
+}
+#imagenes img {
+  width: 24%;
+}
 
 
 
@@ -299,40 +299,40 @@ button{
 
 /* / Arlet */
 /* Erika */
+#objetivo{
+  padding: 60px 5%;
+}
+#objetivo h2{
+text-align: center;
+width: 13em;
+margin: 0 auto;
+}
+#naranja{
+  background:#e4441b;
+  padding: 1px 9px;
+  font-weight: 900;
+  font-size: 42px;
+}
+#sincolor{
+  font-weight: 900;
+  font-size: 42px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#minusculas{
+  font-weight: 300;
+  font-size: 35px;
+  display: block;
+  text-align: right;
+}
+#subtitulo{
+  font-weight: 500;
+  font-size: 23px;
+  text-align: center;
+}
+#textoobjetivo{
+  font-weight: 300;
+  font-size: 16px;
+}
 
 
 
