@@ -18,7 +18,7 @@ main{
 }
 #um{
  width: 75%;
- margin:.5em 0 1.5em;   
+ margin:.5em 0 1.5em;
 }
 #academia{
     width: 10%;
@@ -199,27 +199,27 @@ button{
 
 /* / Daniel */
 /* Arlet */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#testimonio .skew {
+  transform: skew(0deg, 3deg);
+  top: 0;
+}
+#testimonio {
+  background: url(../images/chico_fondo.jpg) no-repeat left top;
+  background-size: cover;
+  padding: 200px 0 200px 40%;
+  position: relative;
+}
+blockquote{
+font-size: 22px;
+text-align: center;
+}
+#imagenes {
+  width: 100%;
+  text-align: center;
+}
+#imagenes img {
+  width: 24%;
+}
 
 
 
