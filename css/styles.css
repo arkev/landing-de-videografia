@@ -71,32 +71,6 @@ button{
     bottom: 0;
     left: 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* / Kevin */
 /* Daniel */
 #beneficios {
@@ -139,65 +113,6 @@ button{
     display: block;
     margin: 0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* / Daniel */
 /* Arlet */
 #testimonio .skew {
@@ -222,81 +137,6 @@ text-align: center;
 #imagenes img {
   width: 24%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* / Arlet */
 /* Erika */
 #objetivo{
@@ -317,7 +157,6 @@ margin: 0 auto;
   font-weight: 900;
   font-size: 42px;
 }
-
 #minusculas{
   font-weight: 300;
   font-size: 35px;
@@ -333,70 +172,6 @@ margin: 0 auto;
   font-weight: 300;
   font-size: 16px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* / Erika */
 /* Pitti */
 footer{
@@ -418,14 +193,51 @@ footer img{
     margin:0 19px;
 }
 
+@media (max-width: 767px) {
+  /* Aquí inician los cambios para el móvil */
+  .info {
+    display: block;
+    width: 90%;
+    margin: 0 5%;
+  }
+  /* Aquí TERMINAN los cambios para el móvil */
+}
 
+@media (min-width: 768px) {
+  /* Aquí inician los cambios para la tablet */
+  #primero {
+    padding: 80px 0 100px;
+  }
+  .info {
+    width: 29%;
+  }
+  #testimonio .skew {
+    top: -36px;
+}
+  /* Aquí TERMINAN los cambios para la tablet */
+}
 
-
-
-
-
-
-
-
-
-
+@media (min-width: 1400px) {
+  /* Aquí inician los cambios para monitores grandes */
+  #primero {
+    padding: 120px 0 150px;
+  }
+  #izquierda, #derecha {
+    font-size: 60px;
+  }
+  #centro {
+    font-size: 80px;
+  }
+  button {
+    font-size: 36px;
+  }
+  #beneficios {
+    padding: 50px 15%;
+  }
+  #testimonio .skew {
+    top: -45px;
+    height: 130px;
+    transform: skew(0deg, 2deg);
+  }
+  /* Aquí TERMINAN los cambios para monitores grandes */
+}
