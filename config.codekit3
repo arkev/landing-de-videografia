@@ -58,11 +58,116 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/camara.jpg": {
+		"ft": 16384,
+		"iS": 41094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/camara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/chico_fondo.jpg": {
+		"ft": 16384,
+		"iS": 187436,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/chico_fondo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/chicos_con_computadora.jpg": {
+		"ft": 16384,
+		"iS": 53916,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/chicos_con_computadora.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/computadora.jpg": {
+		"ft": 16384,
+		"iS": 51838,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/computadora.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/cruz-lapiz-regla.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/cruz-lapiz-regla.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/engranaje.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/engranaje.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/estabilizador.jpg": {
+		"ft": 16384,
+		"iS": 36573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/estabilizador.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/images/um.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/images/um.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/video-camera.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/video-camera.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
